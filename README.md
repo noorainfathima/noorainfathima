@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noorainfathima
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Backend development
-- 💞️ I’m looking to collaborate on real world project 
+- 💞️ I’m looking to collaborate on real world projects 
 - 📫 How to reach me https://www.linkedin.com/in/noorain-fathima-6131b7330/
   
   
